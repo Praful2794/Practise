@@ -1,3 +1,2 @@
-# Practise
+# Assignment
 Run with mvn clean install
-Test
